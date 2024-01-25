@@ -108,6 +108,7 @@ int main(int argc, char *argv[]){
 					continue;
 			}
 		}
+
 		Statement statement;
 		switch (prepare_statement(input_buffer, &statement)) {
 			case (PREPARE_SUCCESS):

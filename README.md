@@ -13,3 +13,5 @@ The set objectives for this project encompass:
   
 - [ ] Implementation of the required mechanism for the establishment of relationships among entities within the database in a
       manner consistent with relational database principles.
+
+You can checkout the [documentation](https://github.com/Alex0os/CDBlite/blob/main/Documentation/1.REPL.md)
